@@ -3347,6 +3347,7 @@
     <Content Include="Template\html\images\small\data1.json" />
     <Content Include="Template\html\images\small\data2.json" />
     <Content Include="Template\html\images\small\match-code.json" />
+    <Content Include="Views\Shared\Components\_Footer.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
